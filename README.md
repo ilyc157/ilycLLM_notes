@@ -19,4 +19,4 @@
 
 
 参考资料：
-[书生大模型训练营] ([[https://markdown.com.cn](https://github.com/InternLM/Tutorial)])
+[书生大模型训练营](https://github.com/InternLM/Tutorial)
